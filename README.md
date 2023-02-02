@@ -4,12 +4,12 @@ This is simple crud application using MERN STACK
     npm init
 
 2. Install packages
-    express
-    nodemon
+    express - configure server
+    nodemon - Auto restart server
     cors
     mongoose
     body-parser
 
-3. 
+3. Configure Server.js
 
 
